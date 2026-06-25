@@ -4,4 +4,4 @@ A notebook to extract summary statistics of .xlsx files from:
 - https://www.clevelandfed.org/indicators-and-data/inflation-expectations (Inflation expectations.xlsx)
 
 # Prerequisite
-MUST HAVE the .xlsx files in the same folder as Inflasi.ipynb
+MUST HAVE the .xlsx files (see above) in the same folder as Inflasi.ipynb
